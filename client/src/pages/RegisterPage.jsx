@@ -151,7 +151,7 @@ const RegisterPage = () => {
 
           <button
             type="submit" disabled={!passwordMatch}
-            className="mt-4 w-1/2 bg-pink-500 text-black font-semibold py-2 px-4 rounded-lg hover:shadow-[0_0_10px_3px_rgba(224,33,138,0.6)] transition"
+            className="mt-4 w-1/2 bg-[#ed8a58] text-black font-semibold py-2 px-4 rounded-lg hover:shadow-[0_0_10px_3px_rgba(224,33,138,0.6)] transition"
           >
             REGISTER
           </button>
