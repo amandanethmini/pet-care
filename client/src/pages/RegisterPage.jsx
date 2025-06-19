@@ -59,7 +59,7 @@ const RegisterPage = () => {
     <div
       className="w-screen h-screen flex flex-col justify-center items-center font-nunito"
       style={{
-        backgroundImage: "url('/assets/bgRegister.png')",
+        backgroundImage: "url('/assets/aa.jpg')",
         backgroundSize: "cover",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",

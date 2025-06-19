@@ -42,7 +42,7 @@ const LoginPage = () => {
   return (
     <div
       className="w-screen h-screen flex flex-col justify-center items-center bg-cover bg-center"
-      style={{ backgroundImage: "url('/assets/bgLogin.png')" }}
+      style={{ backgroundImage: "url('/assets/aa.jpg')" }}
     >
       <div className="flex flex-col gap-4 w-[40%] p-10 bg-black/80 rounded-2xl lg:w-[60%] md:w-[80%]">
         <form className="flex flex-col items-center gap-4 w-full" onSubmit={handleSubmit}>
